@@ -1,0 +1,8 @@
+{
+  "workerName": "lotion-share",
+  "accountId": "d406fa16356dfac357cee6a39fce2d70",
+  "databaseName": "lotion-share-db",
+  "bucketName": "lotion-share-files",
+  "databaseId": "993d2343-fd8f-421e-b293-548d9d22242d",
+  "url": "https://lotion-share.akshara-dt.workers.dev"
+}
